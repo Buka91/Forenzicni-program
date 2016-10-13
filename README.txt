@@ -1,0 +1,1 @@
+Detailed information can be found here: https://github.com/smartninja/python-exercises/tree/master/challenges/CSI
